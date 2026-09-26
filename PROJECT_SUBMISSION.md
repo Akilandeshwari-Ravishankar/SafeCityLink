@@ -1,3 +1,5 @@
+> **United Nations SDG 11 — Sustainable Cities and Communities:** SafeCity Link is an educational prototype related to SDG 11, particularly its focus on making cities more resilient to disasters. It demonstrates one technological approach to maintaining emergency communication during urban disruptions; it does not claim to solve the goal.
+
 ## Inspiration
 
 SafeCity Link was inspired by a practical question: **How can essential city services stay connected when a disaster disrupts the network?** During a flood or infrastructure failure, emergency responders, hospitals, sensors, and city authorities still need to coordinate. The project explores how a wireless mesh could reroute messages around damaged links and isolate devices behaving abnormally.
